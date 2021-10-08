@@ -6,7 +6,7 @@
 
 [<img alt="krlktv | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img alt="krlktv | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][instagram]
-### 📱 Telegram: https://t.me/krlktv
+[<img alt="krlktv | Instagram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
 ### 📩 Mail me: kiryl.kotau@gmail.com
 
 ---
@@ -34,6 +34,7 @@ You can see my projects under this block in pinned repositories, but there are m
 
 [linkedin]: https://linkedin.com/in/krlktv
 [instagram]: https://instagram.com/krlktv
+[telegram]: https://t.me/krlktv
 
 <!--
 **krlktv/krlktv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
