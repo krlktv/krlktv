@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kirill Kotov <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=krlktv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Kirill" />
 
-## I'm a Front-end Developer 📍 Belarus (Minsk)
+## I'm a Frontend Developer
 
 ### 🤝 Connect with me:
 
