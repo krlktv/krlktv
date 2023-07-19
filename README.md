@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kirill Kotov <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=krlktv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Kirill" />
+### Hi there 👋, my name is Kiryl Kotau (Kirill Kotov) <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=krlktv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Kirill" />
 
 ## I'm a Frontend Developer
 
