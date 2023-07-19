@@ -6,7 +6,7 @@
 
 [<img alt="krlktv | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img alt="krlktv | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][instagram]
-[<img alt="krlktv | Instagram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
+[<img alt="krlktv | Telegram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
 ### 📩 Mail me: kiryl.kotau@gmail.com
 
 ---
