@@ -19,8 +19,6 @@ React, TypeScript, JavaScript, Redux, Redux-Toolkit, HTML5, CSS3, SCSS (SASS) mo
 ### ⚙️ GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlktv&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/krlktv?tab=repositories)
-
 [linkedin]: https://linkedin.com/in/krlktv
 [telegram]: https://t.me/krlktv
 [instagram]: https://instagram.com/krlktv
