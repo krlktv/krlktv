@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kiryl Kotau (Kirill Kotov) <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=krlktv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Kirill" />
+### Hi there 👋, my name is Kiryl Kotau <img src="https://raw.githubusercontent.com/krlktv/krlktv/main/img/Hi.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=krlktv&label=Profile%20Views%20&color=AC1F21&style=flat-square" alt="Kirill" />
 
 ## I'm a Frontend Developer
 
@@ -6,7 +6,6 @@
 
 [<img alt="krlktv | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff" />][linkedin]
 [<img alt="krlktv | Telegram" src="https://img.shields.io/badge/telegram-0077B5.svg?&style=for-the-badge&logo=telegram&logoColor=fff" />][telegram]
-[<img alt="krlktv | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=fff" />][instagram]
 
 ### 📩 Mail me: kiryl.kotau@gmail.com
 
@@ -21,7 +20,6 @@ React, TypeScript, JavaScript, Redux, Redux-Toolkit, HTML5, CSS3, SCSS (SASS) mo
 
 [linkedin]: https://linkedin.com/in/krlktv
 [telegram]: https://t.me/krlktv
-[instagram]: https://instagram.com/krlktv
 
 <!--
 **krlktv/krlktv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
