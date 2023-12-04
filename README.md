@@ -13,7 +13,7 @@
 
 ### 💻 Tech Stack, Tools, and Skills:
 
-React, TypeScript, JavaScript Redux, Redux Toolkit, Next.js 
+React, TypeScript, JavaScript, Redux, Redux Toolkit, Next.js 
 • HTML5, CSS3, SCSS/SASS modules, Responsive & Adaptive, Tailwind, styled-components, Bootstrap, Figma 
 • i18n, Builder.io, React Query (TanStack Query), React Hook Form, Zod, Formik, Yup, React Toastify, OIDC, Axios 
 • Jest, React Testing Library, Storybook 
