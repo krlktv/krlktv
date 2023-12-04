@@ -11,9 +11,18 @@
 
 ---
 
-### 💻 Tech Stack and Tools:
+### 💻 Tech Stack, Tools, and Skills:
 
-React, TypeScript, JavaScript, Redux, Redux-Toolkit, HTML5, CSS3, SCSS (SASS) modules, styled-components, Responsive & Adaptive, OIDC (authentication protocol), Formik, Yup, i18n, rc-table, Yarn, Axios, Webpack, Node.js, Express, REST API, MongoDB, Mongoose, Git, Bitbucket, GitLab, GitHub, Figma, Jira, Azure Boards, Confluence, Trello, Agile, Scrum, Kanban
+React, TypeScript, JavaScript Redux, Redux Toolkit, Next.js 
+• HTML5, CSS3, SCSS/SASS modules, Responsive & Adaptive, Tailwind, styled-components, Bootstrap, Figma 
+• i18n, Builder.io, React Query (TanStack Query), React Hook Form, Zod, Formik, Yup, React Toastify, OIDC, Axios 
+• Jest, React Testing Library, Storybook 
+• ESLint, Prettier, Stylelint, Husky 
+• REST API, GraphQL 
+• npm, Yarn, Webpack, Vite, GitLab CI/CD, GitHub Actions, AWS, Microservices, Docker, Grafana 
+• Node.js, Express, MongoDB, Mongoose 
+• Git, GitLab, GitHub, Bitbucket 
+• Azure Boards, Jira, Confluence, Trello, Agile, Scrum, Kanban
 
 ### ⚙️ GitHub Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krlktv&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
